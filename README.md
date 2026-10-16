@@ -153,4 +153,24 @@ Built a toggle that lets users switch between **Last Year (LY)** and **Benchmark
 ### Live Dashboard Link:
 https://tinyurl.com/5n98nr8u
 
+## Dashboard Preview
+
+### Home Page
+![Home Page](images/Home%20Page.png)
+
+### Finance View
+![Finance View](images/Finance%20View.png)
+
+### Sales View
+![Sales View](images/Sales%20View.png)
+
+### Marketing View
+![Marketing View](images/Marketing%20View.png)
+
+### Supply Chain View
+![Supply Chain View](images/Supply%20Chain%20View.png)
+
+### Executive View
+![Executive View](images/Executive%20View.png)
+
 
